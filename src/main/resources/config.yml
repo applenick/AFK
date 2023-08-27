@@ -1,0 +1,5 @@
+# How long until a player is marked as AFK
+timeout: "PT15M"
+
+# Permission to indicate who is a staff member
+staff: "pgm.staff"
